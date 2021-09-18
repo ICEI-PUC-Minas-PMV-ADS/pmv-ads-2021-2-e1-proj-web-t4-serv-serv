@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Serv Serv
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-end`
 
-`SEMESTRE`
+`1º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto visa criar um site que conecta pessoas que precisam de serviços de cunho técnico e manual a profissionais qualificados da região em que o cliente se encontra.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Assis Ferreira da Silva
+* Breno Anderson da Silva
+* Bruna Caroline Santos Benedito
+* Luísa Valadares Vieira
+* Samuel Leite Fonseca
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
