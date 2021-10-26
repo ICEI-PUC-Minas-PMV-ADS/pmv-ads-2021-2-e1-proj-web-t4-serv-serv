@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="serv-user.css">
+</head>
+<body>
+    <nav> 
+        <div class="logo"> 
+            <h1 class="serv">Serv Serv</h1>
+        </div>
+        <ul>
+            <li>
+                <p>Fale conosco</p>   
+            </li>
+            <li>
+                <p>Faça Você Mesmo</p>
+            </li>
+            <li>
+                <p>Sobre Nós</p>
+            </li>
+            <li>
+                <p>Entrar</p>
+            </li>
+            <button class="botao1">
+                <p>Anunciar</p>
+            </button>
+        </ul>
+    </nav>
+    <form action="">
+        <h1>Cadastro</h1>
+      <fieldset class="dados"><legend class="dpessoal">Dados pessoais </legend>
+          <div>      
+             <label for="nome">Nome:</label>
+             <input type="text" nome= "nome" id="nome" placeholder="Nome Completo">
+          </div> <br>      
+
+          <div>      
+             <label for="cpf">CPF:</label>
+             <input type="text" nome= "cpf" id="cpf">
+          </div> <br>     
+
+          <div>
+             <label for="data">Data de nascimento:</label> 
+             <input type="date" nome= "data" id="data">
+          </div> <br> 
+
+          <div>
+             <label for="email">Email:</label>
+             <input type="email" nome= "email" id="email">
+          </div> <br>
+
+          <div>
+            <label for="telefone">Telefone:</label>
+            <input type="tel" nome= "telefone" id="telefone">
+         </div><br> 
+
+
+       <fieldset class="genero"><legend>Gênero:</legend>
+            <label for="masc">
+                 <input type="radio" name="genero" value="Masculino"  id="masc" checked>Masculino <br>
+            </label>
+
+            <label for="fem">
+                <input type="radio" name="genero" value="Feminino" id="fem"> Feminino <br>
+            </label>
+
+            <label for="out">
+                <input type="radio" name="genero" value="Outros" id="out"> Outros
+            </label>
+
+       </fieldset>
+      </fieldset>
+
+        <fieldset class="endereco"><legend  class="ender">Endereço</legend>
+            <div>
+                <label for="rua"> Logadouro:</label>
+                 <input type="text" name="rua" id="rua" placeholder="Rua, Av, Trav, ...">
+            </div> <br>
+
+            <div>
+                <label for="numero">Número:</label>
+                <input type="text" name="numero" id="numero" min="0" max="9999">
+            </div> <br>
+
+            <div>
+                <label for="cidade">Cidade:</label>
+                <input type="text" name="cidade" id="cidade">
+            </div> <br>
+
+            <div>
+                <label for="uf">Estado:</label>
+                <input type="text" name="Estado" id="uf">
+           </div> <br>
+
+        </fieldset>   
+
+           <fieldset class="senha">
+             <div>
+                <label for="senha"> Senha:</label><br>
+                <input type="password" nome= "senhac" id="senha">
+             </div> <br>
+
+             <div>
+                <label for="senhat"> Repetir Senha:</label><br>
+                <input type="password" nome= "senhad" id="senhat">
+            </div> <br>
+
+            <input type="submit" name="submit" id="submit">
+            </fieldset>
+
+    </form>
+
+</body>
+</html> 
