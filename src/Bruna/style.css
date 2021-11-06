@@ -1,0 +1,62 @@
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+nav{ 
+    background-color: rgb(20, 33, 61);
+    padding: 0 15px ;
+    justify-content: space-between;    
+}
+.menu {
+    color: rgb(255, 255, 255);
+}
+.serv{
+    font-family: cursive;
+    color: rgb(252, 162, 17);
+}
+nav, ul{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    padding: 0 50px;
+}
+li:hover{
+    cursor: default;
+    opacity: 0.8;
+    background-color: rgb(252, 162, 17);
+}
+.botao1{
+   border-radius:12px;
+    
+}
+.botao1:hover{
+    background-color: rgb(252, 162, 14);
+    color: rgb(20, 33, 61);
+}
+.bchat{
+    border-radius: 40px;
+}
+.titform{
+    font-family: sans-serif ;
+}
+form{
+    margin: 90px 400px;
+    border: solid 1px #ccc ;
+    padding: 3em;
+    
+}
+label {
+    
+    display: inline-block;
+    width:100px;
+    height: 30px;
+    text-align: justify;
+}
+input, textarea{
+    width: 400px;
+    height:30px ;
+    box-sizing: content-box;
+    border: 1px solid #999;
+}
