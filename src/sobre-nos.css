@@ -22,22 +22,6 @@ a:hover {
   padding: 15px;
 }
 
-.box{
-  width: 100%;
-  }
-
-#search {
-  margin: 8px 16px;
-  width: 30%;
-  padding: 10px;
-}
-
-.icones {
-  display: center;
- padding-left: 800px;
-  margin-top: 50px;
-}
-
 .footer-dark {
   padding:50px 0;
   color:#f0f9ff;
