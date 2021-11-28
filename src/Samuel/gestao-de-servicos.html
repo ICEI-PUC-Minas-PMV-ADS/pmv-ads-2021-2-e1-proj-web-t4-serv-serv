@@ -20,9 +20,10 @@
     <!-- Folha de estilo externa -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="gestao-de-servicos.css">
+    <script src="app.js"></script>
 </head>
 
-<body>
+<body onload="ExibirCadastro()">
     <nav class="topnav">
         <header>
             <!-- Logo -->
@@ -62,6 +63,29 @@
             </nav>
         </header>
     </nav>
+
+    <div class="contents">
+        <div class="options">
+            <ul>
+                <li><a href="">Cadastrar serviço</a></li>
+                <li><a href="">Editar</a></li>
+                <li><a href="">Excluir</a></li>
+            </ul>
+        </div>
+
+        <div class="anuncio">
+            
+            <div id = "servico">
+                
+            </div>
+
+            <div id = "agenda">
+                
+            </div>
+        </div>
+
+        
+    </div>
 
     <footer class="footer-dark">
         <div class="container">
