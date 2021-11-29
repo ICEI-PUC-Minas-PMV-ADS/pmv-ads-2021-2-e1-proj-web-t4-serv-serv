@@ -1,0 +1,75 @@
+body{
+    font-family: sans-serif;
+}
+#header{
+    display: block;
+    color: #008CBA;
+}
+#btnPergunta{
+    background-color: #008CBA;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #008CBA;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+    float: right;
+      }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+  }
+  
+  #btnBusca{
+    border:none;
+    float:right;
+    height:32px;
+    border-radius:7px;
+    width:70px;
+    font-weight:bold;
+    background:#008CBA;
+    color: white;
+  }
+  .article h2{
+      background-color: #008CBA;
+      color:white;
+  }
+  a:link, a:visited {
+	text-decoration: none
+	}
+
+#responder{
+    border:none;
+    margin-top: 20px;
+    height:32px;
+    border-radius:7px;
+    width:100%;
+    font-weight:bold;
+    background:#008CBA;
+    color: white;
+  }
+.article{
+    display: block;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+#container{
+    margin: 100px;
+
+}

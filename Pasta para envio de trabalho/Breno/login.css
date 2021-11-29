@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+body {    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;    
+}
+
+.logo {
+    line-height: 20%;
+}
+
+.box {
+    width: 100%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: antiquewhite;
+}
+
+.cadastro-usuario a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.esqueci-senha {
+    margin-top: -10px;
+}
+
+.esqueci-senha a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.card {
+    background-color: #ffffff90;
+    padding: 30px;
+    border-radius: 4%;
+    box-shadow: 3px 3px 1px 0px black;
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+}
+
+p {
+    color: black;
+    margin-top: 1px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 5px 5px;
+    margin-top: -5px;
+    font-weight: bold;
+}
+
+.camp {
+    width: 100%;
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 20px;    
+    font-size: 6pt;
+    color: black;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    justify-content: center;
+}
+
+.fa-eye {
+    position: relative;
+    top: 35px;
+    right: -220px;
+    cursor: pointer;
+    
+}
+
+/*
+#msgError {
+    text-align: center;
+    color: #f00000;
+    background-color: #ffbbbb;
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+}*/

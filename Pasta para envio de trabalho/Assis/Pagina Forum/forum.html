@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Titulo da Página -->
+    <title>Faça você mesmo</title>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Script -->
+    <script src="https://kit.fontawesome.com/92d52d8366.js" crossorigin="anonymous"></script>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+        integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Folha de estilo externa -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="Estilo de Tela.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script language=javascript type="text/javascript">
+        function newPopup(){
+        varWindow = window.open (
+        'popup.html',
+        'pagina',
+        "width=350, height=255, top=100, left=110, scrollbars=no " );
+        }
+
+        function alerta(){
+    alert("Não implementado!");
+        }
+        </script>
+</head>
+
+<body>
+    <nav class="topnav">
+        <header>
+            <!-- Logo -->
+            <nav class="navbar navbar-expand-sm bg-info">
+                <div class="container">
+                    <a href="index.html" class="navbar-brand">
+                        <h2 class="logo">ServServ</h2>
+                    </a>
+                    <!-- Menu Hamburger-->
+                    <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-principal">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <!-- Barra de navegação lateral -->
+                    <div class="collapse navbar-collapse" id="nav-principal">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item"><a href="" class="nav-link">Fale Conosco</a></li>
+                            <li class="nav-item"><a href="" class="nav-link">Faça Você Mesmo</a></li>
+                            <li class="nav-item"><a href="" class="nav-link">Sobre Nós</a></li>
+                            <!-- Barra com ícone -->
+                            <li class="nav-item">
+                                <a href="" class="nav-link">
+                                    <i class="fas fa-th-large"></i>
+                                    Meus Anúncios
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="" class="nav-link">
+                                    <i class="fas fa-comments"></i>
+                                    Chat
+                                </a>
+                            </li>
+                            <!-- Button simulado -->
+                            <li class="nav-item"><a href="" class="btn btn-outline-light ml-4">Entrar</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+    </nav>
+
+
+    <div id="container">
+        <div id="header">
+            <h1>ServServ Fórum</h1>
+        </div>
+        <div id="nav">
+            <button onclick="javascript:newPopup()" id="btnPergunta">Faça uma pergunta</button>
+            <div id="divBusca">
+
+                <input type="text" id="txtBusca" placeholder="Buscar..." />
+                <button onclick="alerta()" id="btnBusca">Buscar</button>
+            </div>
+        </div>
+        <div class="article">
+            <a href="pergunta.html">
+                <h2>Como instalar um chuveiro?</h2>
+            </a>
+            <p>Por: Maria de Lurdes</p>
+            <p>12/12/2021 as 19:30</p>
+            <div id="mensagem">Olá! Alguem poderia me ajudar? Estou com dificuldade em fazer a instalação de um chuveiro
+                em
+                minha casa</div>
+            <button onclick="alerta()" id="responder">Responder</button>
+
+        </div>
+        <div class="article">
+            <a href="pergunta.html">
+                <h2>Qual a proporção de areia e cimento?</h2>
+            </a>
+            <p>Por: André Tavares</p>
+            <p>10/12/2021 as 07:38</p>
+            <div id="mensagem">Bom dia! Alguém poderia me dizer como qual a quantidade correta de cimento e areia para eu tampar um buraco no chão?</div>
+            <button onclick="alerta()" id="responder">Responder</button>
+
+        </div>
+
+    </div>
+
+
+
+
+    <footer class="footer-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-3 item">
+                    <h3>Services</h3>
+                    <ul>
+                        <li><a href="#">Web design</a></li>
+                        <li><a href="#">Development</a></li>
+                        <li><a href="#">Hosting</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item">
+                    <h3>About</h3>
+                    <ul>
+                        <li><a href="#">Company</a></li>
+                        <li><a href="#">Team</a></li>
+                        <li><a href="#">Careers</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text">
+                    <h3>Serv Serv</h3>
+                    <p>Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula
+                        rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel
+                        in justo.</p>
+                </div>
+                <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i
+                            class="icon ion-social-twitter"></i></a><a href="#"><i
+                            class="icon ion-social-snapchat"></i></a><a href="#"><i
+                            class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p class="copyright">Company Name © 2018</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
