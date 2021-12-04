@@ -13,7 +13,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-----------------------------|------------------------------------|-----------------------------------------------------------------------------------|
 | Repositório de código fonte | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t4-serv-serv |
 | Interface e Wireframes      | Corel Draw                         | https://sgapucminasbr.sharepoint.com/:b:/s/Projeto-ServiosGerais/EbUcv6Ddj9tNnbpocf1FzcoBWLxbGTi9F2Qrekbq_h-rKg?e=ng7CyK |
-| Documento do projeto        | Word 360                           | https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/986815_sga_pucminas_br/ETKa-myizVGhHgUt-c65HkBmNhxIgfGp_nE1XwI1XPkCQ?e=a14eI9 |
+| Documento do projeto        | Word 360                           | https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/986815_sga_pucminas_br/ETKa-_myizVGhHgUt-c65HkBmNhxIgfGp_nE1XwI1XPkCQ?e=4QsA5B |
 | Gerenciamento do projeto    | GitHub Projects                    | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t4-serv-serv/projects/1 |
 
 ## Controle de Versão
