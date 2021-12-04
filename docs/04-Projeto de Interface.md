@@ -11,4 +11,4 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ## Wireframes
 
-- Imagem disponível no artefato [Documento do projeto](https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/986815_sga_pucminas_br/ETKa-myizVGhHgUt-c65HkBmNhxIgfGp_nE1XwI1XPkCQ?e=a14eI9), item 4.
+- Imagem disponível no artefato [Documento do projeto](https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/986815_sga_pucminas_br/ETKa-_myizVGhHgUt-c65HkBmNhxIgfGp_nE1XwI1XPkCQ?e=a14eI9), item 4.
