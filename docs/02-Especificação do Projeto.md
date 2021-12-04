@@ -20,11 +20,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Julia Reis         | Buscar profissionais mulheres      | Não me preocupar com assédios          |
 | Julia Reis         |Publicar feedback sobre profissional| Atestar a qualidade e segurança        |
 | Julia Reis         | Publicar denúncia anônimamente     | Saber que não serei identificado(a)    |
-| Julia Reis         |Interação cliente x prestador - chat| garantir o melhor negócio para ambos   |
-| Alberto Souza      | receber dados pessoais do cliente  | ter segurança na prestação do serviço  |
-| Alberto Souza      | poder gerir a agenda de serviços   | Saber que não serei identificado(a)    |
-| Alberto Souza      | saber nec. especiais dos clientes  |Prestar atendimento inclusivo ao cliente|
-| Julia Reis         | ter várias formas de pagamento     | atender às necessidades financeiras    |
+| Julia Reis         |Interação cliente x prestador - chat| Garantir o melhor negócio para ambos   |
+| Alberto Souza      | Receber dados pessoais do cliente  | Ter segurança na prestação do serviço  |
+| Alberto Souza      | Poder gerir a agenda de serviços   | Atender aos clientes dentro do prazo   |
+| Alberto Souza      | Saber nec. especiais dos clientes  |Prestar atendimento inclusivo ao cliente|
+| Julia Reis         | Ter várias formas de pagamento     | Atender às necessidades financeiras    |
 
 ## Requisitos
 
