@@ -7,7 +7,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 A tela permite que um usuário cadastrado acesse seu perfil pessoal ou profissional. Caso ainda não possua perfil, é partir dela que o mesmo será direcionado para a criação de um. Uma funcionalidade desta página é habilitar a visualização da senha para acompanhar o que está sendo digitado.
 
 - Requisitos atendidos 
-> RF-01 
+-- RF-01 
 
 - Artefatos da funcionalidade 
 - [login.html]
