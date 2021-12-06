@@ -1,0 +1,94 @@
+/* Estilo geral */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+
+    line-height: 20%;
+}
+
+.box {
+    width: 100%;
+}
+
+/* Links */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: antiquewhite;
+}
+
+.container-card {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.card {
+    background-color: #ffffff90;
+    padding: 20px;
+    border-radius: 4%;
+    box-shadow: 3px 3px 1px 0px black;
+}
+
+h4 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+}
+
+h6 {
+    justify-content: center;
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: black;
+    margin-top: 1px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 5px 5px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.camp {
+    width: 100%;
+    text-align: right;
+    margin-top: 0px;
+    background-position: 0px;
+    font-size: 6pt;
+    color: black;
+}
+
+.card-float {
+    color: black;    
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+hr {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 80%;
+}
