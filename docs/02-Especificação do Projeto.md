@@ -74,10 +74,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RE-005| As decisões pertinentes devem ser tomadas por mais de 50% do grupo         |
 |RE-006| O projeto deve estar em conformidade com as leis vigentes                  |
 
-## Wireframes
-
-![WhatsApp Image 2022-03-27 at 21 54 34 (1)](https://user-images.githubusercontent.com/86447935/160718828-030f8425-4063-44a2-9264-1e4ed7b9345e.jpeg)
-![WhatsApp Image 2022-03-27 at 21 54 34 (2)](https://user-images.githubusercontent.com/86447935/160718829-80d14839-212d-475e-957c-d5cc423d4843.jpeg)
-![WhatsApp Image 2022-03-27 at 21 54 34](https://user-images.githubusercontent.com/86447935/160718831-c54095c5-60a1-49e4-ac13-2854612c439b.jpeg)
-![WhatsApp Image 2022-03-27 at 21 54 35 (1)](https://user-images.githubusercontent.com/86447935/160718834-267ced83-3c91-4d6b-bfde-42ab518e55c2.jpeg)
-![WhatsApp Image 2022-03-27 at 21 54 35](https://user-images.githubusercontent.com/86447935/160718836-5f10315b-b2b1-46ff-a21a-657a4360ae49.jpeg)
